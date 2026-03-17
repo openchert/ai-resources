@@ -17,6 +17,7 @@ https://github.com/ashishps1/awesome-system-design-resources
 #### tools:
 https://www.warp.dev/
 https://github.com/paperclipai/paperclip
+https://github.com/karpathy/autoresearch
 
 #### good-practice:
 https://git-scm.com/docs/git-worktree
