@@ -14,6 +14,16 @@ https://anthropic.skilljar.com/
 
 https://github.com/ashishps1/awesome-system-design-resources
 
+https://www.kaggle.com/whitepaper-prompt-engineering
+https://www.kaggle.com/whitepaper-agent-companion
+https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
+https://services.google.com/fh/files/misc/workspace_with_gemini_prompting_guide.pdf
+https://cdn.openai.com/business-guides-and-resources/identifying-and-scaling-ai-use-cases.pdf
+https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?hl=en
+https://www.anthropic.com/engineering/building-effective-agents
+https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview
+https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F8lsy243ftffjjy1cx9lm3o2bw%2Fpublic%2F1773274827%2FClaude+Certified+Architect+%E2%80%93+Foundations+Certification+Exam+Guide.pdf
+
 #### tools:
 https://www.warp.dev/
 https://github.com/paperclipai/paperclip
